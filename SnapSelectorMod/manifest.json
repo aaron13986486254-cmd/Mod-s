@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "SnapPointSelectorMod",
+  "author": "BONNe",
+  "version": "1.0.0",
+  "description": "A mod that allows cycle through available snap points when placing log/rock/stick.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://github.com/BONNePlayground/SnapPointSelector"
+}

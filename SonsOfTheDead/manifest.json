@@ -1,0 +1,12 @@
+{
+  "_cyberfox1337x_function": "redloader-preserved-client-manifest",
+  "id": "SonsOfTheDead",
+  "name": "Sons of the Forest Menu",
+  "author": "cyberfox1337x",
+  "version": "1.2.2",
+  "description": "RedLoader edition preserving the supplied 2.0.1 menu. Loader compatibility adapter only.",
+  "gameVersion": "0.11.3",
+  "loaderVersion": "0.8.6",
+  "platform": "Client",
+  "type": "Mod"
+}

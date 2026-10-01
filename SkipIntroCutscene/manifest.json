@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "SkipIntroCutscene",
+  "author": "GLaD0S",
+  "version": "1.0.0",
+  "description": "A simple mod to skip the intro cutscene when loading into a game for the first time",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

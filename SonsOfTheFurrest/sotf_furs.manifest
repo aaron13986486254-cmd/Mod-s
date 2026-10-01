@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.14f1
+CRC: 1035528055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bb73bf616c3e699400c0e3b161afbaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b0bd7eac36d6d7ac9272bfab6e6f6e5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aaa18cbdf6c59a575a2443145860fdc4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundlesWanted/afox_arm_left.mat
+- Assets/AssetBundlesWanted/collie_arm_left.mat
+- Assets/AssetBundlesWanted/afox_arm_right.mat
+- Assets/AssetBundlesWanted/deer.prefab
+- Assets/AssetBundlesWanted/lynx.prefab
+- Assets/AssetBundlesWanted/lynx_arm_right.mat
+- Assets/AssetBundlesWanted/fox_arm_left.mat
+- Assets/AssetBundlesWanted/deer_arm_left.mat
+- Assets/AssetBundlesWanted/collie_tail.prefab
+- Assets/AssetBundlesWanted/afox_tail.prefab
+- Assets/AssetBundlesWanted/collie_arm_right.mat
+- Assets/AssetBundlesWanted/lynx_tail.prefab
+- Assets/AssetBundlesWanted/fox.prefab
+- Assets/AssetBundlesWanted/collie.prefab
+- Assets/AssetBundlesWanted/deer_tail.prefab
+- Assets/AssetBundlesWanted/afox.prefab
+- Assets/AssetBundlesWanted/fox_arm_right.mat
+- Assets/AssetBundlesWanted/fox_tail.prefab
+- Assets/AssetBundlesWanted/deer_arm_right.mat
+- Assets/AssetBundlesWanted/lynx_arm_left.mat
+Dependencies: []

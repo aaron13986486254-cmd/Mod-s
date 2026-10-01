@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "CrashsiteSelector",
+  "author": "codengine",
+  "version": "1.0.0",
+  "description": "Allows you to select your crashsite (random, forest, ocean, mountain)",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://github.com/codengine/SOTFEdit"
+}

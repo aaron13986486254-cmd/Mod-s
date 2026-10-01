@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BuilderBuddy",
+  "author": "Franky",
+  "version": "1.0.1",
+  "description": "Improving the lives of builders.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://sotf-mods.com/mods/franky/builderbuddy"
+}

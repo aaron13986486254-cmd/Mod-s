@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "PlaceStructureAnywhere",
+  "author": "tempbito",
+  "version": "1.0.5",
+  "description": "Allows you to ignore structure placement restrictions.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

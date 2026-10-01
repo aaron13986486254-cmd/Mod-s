@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "AllowBuildInCaves",
+  "author": "GLaD0S",
+  "version": "3.0.2",
+  "description": "Allows building in caves and removes parts of cave entrances",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://github.com/laserman120/Sotf-Mod-Building-in-Caves"
+}
